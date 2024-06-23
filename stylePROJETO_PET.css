@@ -90,6 +90,15 @@ header {
     font-weight: 700;    
  }  
 
+ .header1:hover {
+   opacity: 0.4;
+ }
+
+ .header1:active {
+   opacity: 0.8;
+ }
+ 
+
  @media screen and (max-width: 975px) {
    * {
       margin: 0;
